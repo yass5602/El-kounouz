@@ -770,7 +770,7 @@ html[dir="rtl"] .hero-caption { left: auto; right: -28px; }
 
 .map-frame {
   aspect-ratio: 4 / 3;
-  border: 1px solid var(--rule);
+  /*border: 1px solid var(--rule);*/
   border-radius: 4px;
   overflow: hidden;
   margin-top: 24px;
